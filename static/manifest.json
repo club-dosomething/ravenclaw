@@ -4,7 +4,7 @@
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "sizes": "192x192",https://github.com/club-dosomething/ravenclaw/blob/main/static/manifest.json
       "type": "image/png"
     },
     {
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "ravenclaw/index.html",
+  "start_url": "/ravenclaw/index.html",
   "display": "browser",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
